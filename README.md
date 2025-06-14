@@ -18,9 +18,10 @@ This repository provides a complete beginner-to-advanced journey into **Machine 
 | ✅ 08 | `08_Classification_Algorithms.ipynb` | Implementation of classifiers: Logistic Regression, SVM, KNN, Decision Trees, Naive Bayes, Random Forest. |
 | ✅ 09 | `09_Regression_Algorithms.ipynb` | Implementation of regression models: Linear, Ridge, Lasso, ElasticNet, SVR, Decision Trees, and ensemble regressors. |
 | ✅ 10 | `10_Image_Classification.ipynb` | Deep learning with CNNs using Keras: training MNIST digit classifier with accuracy visualization. |
-| ✅ 11 | `11_Comparing_ML_Algorithms.ipynb` | Systematic comparison of multiple ML models with tabular results, boxplots, and performance observations. |
-| ✅ 12 | `12_Pipeline_Automation.ipynb` | Using `Pipeline` and `FeatureUnion` for combining preprocessing, feature selection, and modeling. |
-| ✅ 13 | `13_Save_N_Load_ML_Models.ipynb` | Model persistence using Pickle: saving and loading trained models for reuse and deployment. |
+| ✅ 11 | `11_Multiclass_Image_Classification.ipynb` | Multiclass classification using the Iris dataset: training and evaluating models with Scikit-learn classifiers. |
+| ✅ 12 | `12_Comparing_ML_Algorithms.ipynb` | Systematic comparison of multiple ML models with tabular results, boxplots, and performance observations. |
+| ✅ 13 | `13_Pipeline_Automation.ipynb` | Using `Pipeline` and `FeatureUnion` for combining preprocessing, feature selection, and modeling. |
+| ✅ 14 | `14_Save_N_Load_ML_Models.ipynb` | Model persistence using Pickle: saving and loading trained models for reuse and deployment. |
 
 ---
 
@@ -31,10 +32,6 @@ To use these notebooks interactively without any setup, click below:
 <a target="_blank" href="https://colab.research.google.com/github/satwiksps/ml-headstart">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-
-Make sure to:
-1. Upload datasets if needed.
-2. Change the runtime to GPU for deep learning notebooks.
 
 ---
 
@@ -51,7 +48,7 @@ Make sure to:
 
 **Satwik Sai Prakash Sahoo**  
 
-**[LinkedIn](https://www.linkedin.com/in/satwiksps/)** | **[GitHub](https://github.com/satwiksps)** | **[X](https://x.com/satwiksps)**
+**[LinkedIn](https://www.linkedin.com/in/satwiksps/)** | **[GitHub](https://github.com/satwiksps)**
 
 ---
 
